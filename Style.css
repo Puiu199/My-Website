@@ -1,0 +1,25 @@
+body
+{
+	background: url(img/background.jpg);
+	background-attachment: fixed;
+	background-position: center;   
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+div.menue
+{
+width: auto;
+height: auto; 
+align-items: stretch;
+
+}
+button.home
+{
+	background: white;
+	border-width: 0px;
+	font-family: cursive;
+	padding: 10px;
+	border-radius: 10px;
+
+}
